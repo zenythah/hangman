@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:10:42.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zBMU4lgOv9W67HM5ejNc" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:12:16.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xO8QG4QMPre21hTpcpGL" version="16.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1396" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,10 +55,10 @@
         <mxCell id="XrtFO3j6FjWHjfE8mQF2-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="210" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XrtFO3j6FjWHjfE8mQF2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XrtFO3j6FjWHjfE8mQF2-12" target="XrtFO3j6FjWHjfE8mQF2-18">
+        <mxCell id="XrtFO3j6FjWHjfE8mQF2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XrtFO3j6FjWHjfE8mQF2-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="480" as="sourcePoint" />
-            <mxPoint x="80" y="480" as="targetPoint" />
+            <mxPoint x="185" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="480" />
             </Array>
@@ -94,25 +94,17 @@
         <mxCell id="XrtFO3j6FjWHjfE8mQF2-17" value="Lose a life" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="280" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XrtFO3j6FjWHjfE8mQF2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XrtFO3j6FjWHjfE8mQF2-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="245" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XrtFO3j6FjWHjfE8mQF2-18" value="Game Over" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XrtFO3j6FjWHjfE8mQF2-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XrtFO3j6FjWHjfE8mQF2-18">
+        <mxCell id="XrtFO3j6FjWHjfE8mQF2-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XrtFO3j6FjWHjfE8mQF2-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="410" as="sourcePoint" />
-            <mxPoint x="350" y="480" as="targetPoint" />
+            <mxPoint x="360" y="415" as="sourcePoint" />
+            <mxPoint x="305" y="485" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="480" />
+              <mxPoint x="360" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrtFO3j6FjWHjfE8mQF2-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="540" width="110" height="30" as="geometry" />
+        <mxCell id="XrtFO3j6FjWHjfE8mQF2-35" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="460" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
